@@ -3,75 +3,80 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RADEST.RADEST)
 
 ## 💻 About Me
-I'm Rafli, an Informatics Engineering student at Universitas Muhammadiyah Surakarta. I have a strong interest in data science, web development, and artificial intelligence. My journey is fueled by curiosity and the joy of solving real-world problems with code.
+I'm Rafli, a 7th-semester Informatics Engineering student at Universitas Muhammadiyah Surakarta with a deep passion for **data science**, **machine learning**, and **AI**. I enjoy uncovering insights through data and developing intelligent systems that support decision-making. I'm committed to building real-world, data-driven solutions using tools like Python, SQL, and Scikit-learn.
 
-- 🌍 Location: Indonesia 🇮🇩  
-- 🎓 7th Semester Informatics Engineering Student  
-- 🤖 Currently exploring machine learning, NLP, and data-driven applications  
-- 🧠 Passionate about technology, medical informatics, and impactful research  
+- 🌍 **Location**: Indonesia 🇮🇩  
+- 🎓 **Education**: Informatics Engineering, Universitas Muhammadiyah Surakarta  
+- 💡 **Focus**: Predictive analysis, data visualization, recommender systems  
+- 🤝 **Strengths**: Analytical thinking, teamwork, communication
 
 ---
 
 ## 🔧 Technologies I Use
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 📌 Current Projects
+## 📌 Highlighted Projects
 
-- **Library Management System** – PHP-based system for managing book collections, patrons, borrowing/returning, and file uploads (images & PDFs).
-- **Carbon Footprint Model** – Linear Regression + Ridge optimization for predicting individual carbon emissions using engineered behavioral features.
-- **Doctor Schedule App** – A full-stack app managing doctors’ availability and patient appointments with role-based login.
+- **Carbon Footprint Prediction Model**  
+  Built using Ridge Regression and behavioral features to predict individual carbon emissions.  
+  *Technologies*: Python, Scikit-learn, Pandas
+
+- **Udemy Course Recommendation System**  
+  Natural Language Processing and TF-IDF vectorization to deliver course suggestions.  
+  *Technologies*: Python, NLP, TF-IDF
+
+- **Air Quality Analysis (ETL & Visualization)**  
+  ETL pipeline for real-time air quality data from 10 cities; created insights using graphs and trend analysis.  
+  *Technologies*: Python, Pandas, Matplotlib
 
 ---
 
 ## 🧭 Learning Journey
 
-I've been diving into:
-- 📊 Data Science and Machine Learning (Python, Pandas, Scikit-learn)
-- 🌐 Web Development (Django, PHP, HTML/CSS)
-- 🧠 NLP & AI ethics in healthcare
-- 🐳 DevOps (Docker + PostgreSQL)
-- 📱 Django REST APIs & authentication flows
+I’m currently focused on:
+- 📊 **Data Science & Analytics**: Cleaning, transforming, and visualizing real-world datasets  
+- 🧠 **Machine Learning**: Regression, classification, clustering, recommendation engines  
+- 🧪 **AI Research**: Impact of AI in healthcare, education, and society  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RADEST&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADEST&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RADEST&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADEST&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 💬 Let’s Collaborate!
+## 🤝 Let’s Collaborate!
 
-I'm always up for:
-- 🤝 Open source collaborations
-- 🧪 Research projects on AI in education/healthcare
-- 🧠 Brainstorming data-driven solutions to real-world problems
+I’m open to:
+- 📊 Data analysis and visualization projects  
+- 🧠 Machine learning research and model building  
+- 🧪 AI applications in health, education, and sustainability
 
-If you have something interesting in mind, let’s build it together!
+Let’s connect and bring ideas to life!
 
 ---
 
 ## ✉️ Contact Me
 
-- 📫 Email: destiansyar.rafli@gmail.com  
-- 🔗 LinkedIn: [www.linkedin.com/in/rafli-ahmad-destiansyarlinkedin.com/in/ahmaddestination](www.linkedin.com/in/rafli-ahmad-destiansyar)  
-- 🌐 Website/Portfolio: *Coming Soon*
+- 📫 **Email**: destiansyar.rafli@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/rafli-ahmad-destiansyar](https://www.linkedin.com/in/rafli-ahmad-destiansyar)  
+- 🌐 **Website/Portfolio**: *Coming Soon*
 
 ---
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 
