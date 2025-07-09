@@ -50,35 +50,16 @@ I'm currently exploring:
 - 📊 **Data Science**: Real-world analytics, cleaning & wrangling  
 - 🧠 **Machine Learning**: Regression, classification, clustering  
 - ☁️ **Cloud Platforms**: GCP (BigQuery), AWS (S3, RDS)  
-- 🧪 **AI for Good**: Healthcare, education, & sustainability insights  
+- 🧪 **AI**: Healthcare, education, & sustainability insights  
 
 ---
 
-## 📈 GitHub Stats & GIF
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RADEST&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADEST&layout=compact&theme=tokyonight" alt="Top Languages" width="38%" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="12%" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RADEST&theme=darkhub&column=7" />
-</p>
-
----
-
-## 👾 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RADEST&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RADEST&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RADEST&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=RADEST&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ---
 
@@ -92,3 +73,8 @@ I'm currently exploring:
 
 > Let’s collaborate on something meaningful 🚀  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
+</picture>
