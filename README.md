@@ -6,9 +6,10 @@
 I'm Rafli, a 7th-semester Informatics Engineering student at Universitas Muhammadiyah Surakarta with a deep passion for **data science**, **machine learning**, and **AI**. I enjoy uncovering insights through data and developing intelligent systems that support decision-making. I'm committed to building real-world, data-driven solutions using tools like Python, SQL, and Scikit-learn.
 
 - 🌍 **Location**: Indonesia 🇮🇩  
-- 🎓 **Education**: Informatics Engineering, Universitas Muhammadiyah Surakarta  
+- 🎓 **Education**: Universitas Muhammadiyah Surakarta – Informatics Engineering  
+- ☁️ **Cloud Experience**: Hands-on with Google Cloud & AWS for analytics pipelines  
 - 💡 **Focus**: Predictive analysis, data visualization, recommender systems  
-- 🤝 **Strengths**: Analytical thinking, teamwork, communication
+- 🤝 **Strengths**: Analytical thinking, teamwork, and communication
 
 ---
 
@@ -20,6 +21,8 @@ I'm Rafli, a 7th-semester Informatics Engineering student at Universitas Muhamma
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -28,55 +31,64 @@ I'm Rafli, a 7th-semester Informatics Engineering student at Universitas Muhamma
 ## 📌 Highlighted Projects
 
 - **Carbon Footprint Prediction Model**  
-  Built using Ridge Regression and behavioral features to predict individual carbon emissions.  
-  *Technologies*: Python, Scikit-learn, Pandas
+  Ridge Regression & feature engineering to predict individual carbon emissions.  
+  *Tools*: Python, Scikit-learn, Pandas
 
 - **Udemy Course Recommendation System**  
-  Natural Language Processing and TF-IDF vectorization to deliver course suggestions.  
-  *Technologies*: Python, NLP, TF-IDF
+  TF-IDF & NLP pipeline for personalized course recommendations.  
+  *Tools*: Python, TF-IDF, NLP
 
-- **Air Quality Analysis (ETL & Visualization)**  
-  ETL pipeline for real-time air quality data from 10 cities; created insights using graphs and trend analysis.  
-  *Technologies*: Python, Pandas, Matplotlib
+- **Air Quality ETL & Visualization**  
+  Collected and visualized real-time AQI data from 10 Indonesian cities.  
+  *Tools*: Python, Pandas, Matplotlib
 
 ---
 
 ## 🧭 Learning Journey
 
-I’m currently focused on:
-- 📊 **Data Science & Analytics**: Cleaning, transforming, and visualizing real-world datasets  
-- 🧠 **Machine Learning**: Regression, classification, clustering, recommendation engines  
-- 🧪 **AI Research**: Impact of AI in healthcare, education, and society  
+I'm currently exploring:
+- 📊 **Data Science**: Real-world analytics, cleaning & wrangling  
+- 🧠 **Machine Learning**: Regression, classification, clustering  
+- ☁️ **Cloud Platforms**: GCP (BigQuery), AWS (S3, RDS)  
+- 🧪 **AI for Good**: Healthcare, education, & sustainability insights  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & GIF
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RADEST&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADEST&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RADEST&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADEST&layout=compact&theme=tokyonight" alt="Top Languages" width="38%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="12%" />
 </p>
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🏆 GitHub Achievements
 
-I’m open to:
-- 📊 Data analysis and visualization projects  
-- 🧠 Machine learning research and model building  
-- 🧪 AI applications in health, education, and sustainability
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RADEST&theme=darkhub&column=7" />
+</p>
 
-Let’s connect and bring ideas to life!
+---
+
+## 👾 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 ## ✉️ Contact Me
 
-- 📫 **Email**: destiansyar.rafli@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/rafli-ahmad-destiansyar](https://www.linkedin.com/in/rafli-ahmad-destiansyar)  
-- 🌐 **Website/Portfolio**: *Coming Soon*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafli-ahmad-destiansyar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:destiansyar.rafli@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RADEST)
 
 ---
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+> Let’s collaborate on something meaningful 🚀  
 
