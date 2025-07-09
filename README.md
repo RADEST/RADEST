@@ -54,6 +54,8 @@ I'm currently exploring:
 
 ---
 
+## 📊 GitHub Stats, Streak & Trophies
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RADEST&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RADEST&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -72,9 +74,3 @@ I'm currently exploring:
 ---
 
 > Let’s collaborate on something meaningful 🚀  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RADEST/RADEST/output/pacman-contribution-graph.svg">
-</picture>
